@@ -10,3 +10,7 @@ Opis:
  - sprawdzamy które z wyników są znakami przejść dla pieszych, zapisujemy ich liczbę i pozycję ramki,
  - sprawdzamy czy znak przejścia zajmuje 1/10 szerokości i wyskości zdjęcia,
  - wypisujemy printem nazwę pliku, liczbę znaków przejść dla pieszych na danym obrazku i pozycję ramki (xmin xmax ymin ymax).
+
+Uwagi:
+-plik wyuczonego modelu zajmuje ponad 150MB i nie da się go umieścić na githubie
+-do wytrenowania modelu użyłem narzędzia google collab z akceleracją GPU
