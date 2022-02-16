@@ -12,5 +12,5 @@ Opis:
  - wypisujemy printem nazwę pliku, liczbę znaków przejść dla pieszych na danym obrazku i pozycję ramki (xmin xmax ymin ymax).
 
 Uwagi:
--plik wyuczonego modelu zajmuje ponad 150MB i nie da się go umieścić na githubie
--do wytrenowania modelu użyłem narzędzia google collab z akceleracją GPU
+ - plik wyuczonego modelu zajmuje ponad 150MB i nie da się go umieścić na githubie
+ - do wytrenowania modelu użyłem narzędzia google collab z akceleracją GPU
