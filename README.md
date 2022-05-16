@@ -1,4 +1,4 @@
-# Project_SI
+# Project_SI - rozpoznawanie znaków przejść dla pieszych
 Opis:
 1. Tworzymy wzorzec do wczytywania zdjęć, zachodzi w nim: zmiana rozmiaru, konwersja do tensora i normalizacja.
 2. Wczytujemy dane treningowe.
@@ -12,5 +12,5 @@ Opis:
  - wypisujemy printem nazwę pliku, liczbę znaków przejść dla pieszych na danym obrazku i pozycję ramki (xmin xmax ymin ymax).
 
 Uwagi:
- - plik wyuczonego modelu zajmuje ponad 150MB i nie da się go umieścić na githubie (plik został wrzucony razem z projektem na ekursy, ew. link do pliku: https://drive.google.com/file/d/1-ayJuXNsGiwt_Nc2N17S0oJrBOgsLy5p/view?usp=sharing)
+ - plik wyuczonego modelu zajmuje ponad 150MB i nie da się go umieścić na githubie (link do pliku: https://drive.google.com/file/d/1-ayJuXNsGiwt_Nc2N17S0oJrBOgsLy5p/view?usp=sharing)
  - do wytrenowania modelu użyłem narzędzia google collab z akceleracją GPU
